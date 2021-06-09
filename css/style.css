@@ -2,6 +2,9 @@ body {
   color: #fff;
   font-family: 'Roboto', sans-serif;
 }
+.logo-image {
+  margin-right: 50px;
+}
 .container {
   max-width: 1140px;
   margin: auto;
